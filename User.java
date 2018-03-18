@@ -7,4 +7,8 @@ public final Class User {
     public Integer age() {
         return age;
     }
+
+    public void setGender(Byte gender) {
+        this.gender = gender;
+    }
 }
