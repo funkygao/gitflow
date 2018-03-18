@@ -3,7 +3,7 @@ package com.foo;
 public final Class User {
     private Integer age;
 
-    publi Integer age() {
+    public Integer age() {
         return age
     }
 }
